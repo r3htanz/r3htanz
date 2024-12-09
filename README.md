@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello! 👋
 
 Welcome to my GitHub profile!  
-I'm Jan, a passionate developer with a focus on **data monitoring**, **data analysis**, and **automation**. 🚀
+I'm Jan, a passionate 27-year-old developer with a focus on **data monitoring**, **data analysis**, and **automation**. 🚀
 
 ## About Me
 - 🔭 I enjoy working on system monitoring, data visualization, and custom alerting solutions.
