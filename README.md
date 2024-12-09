@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 I'm Jan, a passionate 27-year-old developer with a focus on **data monitoring**, **data analysis**, and **automation**. 🚀
 
 ## About Me
-- 🔭 I enjoy working on **system monitoring**, **data visualization**, and custom alerting solutions.
+- 🔭 I enjoy working on **system monitoring**, **data analytics/visualization**, and custom alerting solutions.
 - 🎓 Currently pursuing a Bachelor's degree in **Systems Engineering (B.Eng.)**.
 - 🌱 Currently learning more about **Python**, **Docker**, **Virtualization** and sensor data integration.
 
