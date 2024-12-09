@@ -16,11 +16,19 @@ Here are some ideas to get you started:
 # Hello! 👋
 
 Welcome to my GitHub profile!  
-I'm Jan, a passionate developer with a focus on **data analysis**, **monitoring**, and **automation**. 🚀
+I'm Jan, a passionate developer with a focus on **data monitoring**, **data analysis**, and **automation**. 🚀
 
 ## About Me
 - 🔭 I enjoy working on system monitoring, data visualization, and custom alerting solutions.
-- 🌱 Currently learning more about **Python**, **Docker**, and sensor data integration.
+- 🎓 Currently pursuing a Bachelor's degree in **Systems Engineering (B.Eng.)**.
+- 🌱 Currently learning more about **Python**, **Docker**, **Virtualization** and sensor data integration.
+
+## 🔧 IoT & Microcontroller Experience
+- Worked with IoT devices and microcontrollers for automation and monitoring solutions.
+- Familiar with:
+  - **Arduino** and compatible devices
+  - **ESP32/ESP8266** for Wi-Fi-enabled projects
+  - Sensor integration for environmental and industrial monitoring
 
 ## 💻 Tech Stack
 - **Languages:**  
@@ -38,8 +46,8 @@ I'm Jan, a passionate developer with a focus on **data analysis**, **monitoring*
 ![Synology](https://img.shields.io/badge/Synology-1D2D4A?style=flat&logo=synology&logoColor=white)
 
 ## 📫 Contact
-- 💼 [LinkedIn](#)
-- 🐙 [GitHub Profile](https://github.com/YourUsername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jan-niclas-fenger-175a23323)
+- 🐙 [GitHub Profile](https://github.com/r3htanz)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
