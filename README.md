@@ -19,14 +19,14 @@ Welcome to my GitHub profile!
 I'm Jan, a passionate 27-year-old developer with a focus on **data monitoring**, **data analysis**, and **automation**. 🚀
 
 ## About Me
-- 🔭 I enjoy working on **system monitoring**, **data analysis/visualization**, and custom alerting solutions.
+- 🔭 I enjoy working on **system monitoring** and **data analysis/visualization**.
 - 🎓 Currently pursuing a Bachelor's degree in **Systems Engineering (B.Eng.)**.
-- 🌱 Currently learning more about **Python**, **Docker**, **Virtualization** and sensor data integration.
+- 🌱 Currently learning more about **Python**, **Docker**, **Virtualization** and **sensor data integration**.
 
 ## 🔧 IoT & Microcontroller Experience
 - Worked with IoT devices and microcontrollers for automation and monitoring solutions.
 - Familiar with:
-  - **Arduino** and compatible devices
+  - **Raspberry Pi**, **Arduino** and compatible devices
   - **ESP32/ESP8266** for Wi-Fi-enabled projects
   - Sensor integration for environmental and industrial monitoring
 
