@@ -56,17 +56,17 @@ I'm Jan, a passionate 27-year-old developer with a focus on **data monitoring**,
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/01/2025 02:15:05 UTC
+ Last Updated on 14/01/2025 02:05:21 UTC
 <!--END_SECTION:waka-->
 
 ---
