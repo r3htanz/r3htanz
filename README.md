@@ -51,23 +51,8 @@ I'm Jan, a passionate 27-year-old developer with a focus on **data monitoring**,
 - 🐙 [GitHub Profile](https://github.com/r3htanz)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TeX                      12 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-TeXstudio                12 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 21/05/2025 02:28:07 UTC
+ Last Updated on 22/05/2025 02:27:23 UTC
 <!--END_SECTION:waka-->
 
 ---
