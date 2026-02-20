@@ -57,18 +57,18 @@ I'm Jan, a passionate 27-year-old developer with a focus on **data monitoring**,
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TeX                      13 hrs 15 mins      █████████████████████████   100.00 % 
+TeX                      12 hrs 26 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs              █████████████████████████   98.22 % 
-TeXstudio                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+VS Code                  12 hrs 14 mins      █████████████████████████   98.41 % 
+TeXstudio                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Linux                    13 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/02/2026 03:30:17 UTC
+ Last Updated on 20/02/2026 03:25:53 UTC
 <!--END_SECTION:waka-->
 
 ---
