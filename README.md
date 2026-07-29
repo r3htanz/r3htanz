@@ -51,8 +51,6 @@ I'm Jan, a passionate 27-year-old developer with a focus on **data monitoring**,
 - 🐙 [GitHub Profile](https://github.com/r3htanz)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -75,7 +73,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 03:52:43 UTC
+ Last Updated on 29/07/2026 03:56:31 UTC
 <!--END_SECTION:waka-->
 
 ---
